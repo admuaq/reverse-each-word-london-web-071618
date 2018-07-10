@@ -6,7 +6,7 @@ def reverse_each_word(sentence1)
     element.reverse
   end 
   
-  myArray.join
+  myArray.join(" ")
   
   
 end
