@@ -5,5 +5,5 @@ def reverse_each_word(sentence1)
   myArray.collect do |element|
     element.reverse
   end 
-  
+  myArray
 end
